@@ -36,5 +36,5 @@ results_df = pd.DataFrame({
     'Grau de Vulnerabilidade| (%)': predictions_percent
 })
 
-# exibição final
+# exibição final *-*
 print(results_df)
